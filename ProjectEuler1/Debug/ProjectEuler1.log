@@ -1,2 +1,10 @@
-﻿  main.cpp
-  ProjectEuler1.vcxproj -> C:\Users\Aliş\source\repos\ProjectEuler1\Debug\ProjectEuler1.exe
+﻿  Problem1.cpp
+  Problem2.cpp
+  Problem3.cpp
+d:\git\euler\projecteulersolutions\projecteuler1\problem3.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\git\euler\projecteulersolutions\projecteuler1\problem3.cpp(30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  LINK : D:\git\Euler\ProjectEulerSolutions\Debug\ProjectEuler1.exe not found or not built by the last incremental link; performing full link
+Problem2.obj : error LNK2005: _main already defined in Problem1.obj
+Problem3.obj : error LNK2005: _main already defined in Problem1.obj
+D:\git\Euler\ProjectEulerSolutions\Debug\ProjectEuler1.exe : fatal error LNK1169: one or more multiply defined symbols found
