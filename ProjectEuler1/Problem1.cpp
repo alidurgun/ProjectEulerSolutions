@@ -49,3 +49,6 @@ void calculateSumProm(int maxNumber, int minNumber, int divider, std::promise<in
 
 	prom.set_value(result);
 }
+
+
+// deneme automatically pull
